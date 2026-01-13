@@ -81,8 +81,8 @@ J’aime transformer des idées en projets concrets, tout en m’assurant de la 
 
 ## 📫 Me contacter
 
-- 💼 LinkedIn : [Ton Profil LinkedIn](https://www.linkedin.com/)  
-- 📧 Email : ton.email@example.com  
+- 💼 Discord : usernzx
+- 📧 Email : creaweb.nb@gmail.com
 
 ---
 
