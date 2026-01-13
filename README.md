@@ -3,10 +3,11 @@
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-1250-blue?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Favoris-542-yellow?style=for-the-badge)
 
+---
 
 👋 Salut !  
-Je suis un **développeur passionné** par le développement web et les technologies modernes.  
-J’aime transformer des idées en projets concrets, performants et bien structurés, tout en continuant à apprendre et à progresser.
+Je suis un **développeur web orienté full-stack**, passionné par la création d’applications modernes, performantes et maintenables.  
+J’aime transformer des idées en projets concrets, tout en m’assurant de la **qualité du code**, de l’**architecture** et de l’**expérience utilisateur**.
 
 ---
 
@@ -55,6 +56,33 @@ J’aime transformer des idées en projets concrets, performants et bien structu
 - ⚛️ Développement avec **React**
 - 🖥️ Back-end avec **Node.js & Express**
 - 📚 Approfondissement en **TypeScript & Python**
+
+---
+
+## 📌 Projets / Expériences
+
+### 🤖 Gestion de serveurs Discord
+**Objectifs et réalisations :**  
+- Réorganisation des salons, rôles et permissions pour améliorer la clarté et la sécurité  
+- Mise en place d’un système d’accueil / onboarding pour les nouveaux membres  
+- Création d’un système permettant aux membres de choisir leur serveur de jeu via des rôles  
+- Amélioration de la lisibilité et de l’expérience utilisateur  
+
+**Compétences mises en œuvre :**  
+- Très bonne maîtrise de Discord  
+- Gestion avancée des rôles, permissions et bots (Drafbot ou équivalent)  
+- Sérieux, organisation et force de proposition  
+
+### 🌐 Développement web & API
+- 🔗 **Projet 1** – [Lien si disponible] : application full-stack avec React / Node.js / MongoDB  
+- 🔗 **Projet 2** – [Lien si disponible] : API performante avec Node.js & Express, gestion sécurisée des données  
+
+---
+
+## 📫 Me contacter
+
+- 💼 LinkedIn : [Ton Profil LinkedIn](https://www.linkedin.com/)  
+- 📧 Email : ton.email@example.com  
 
 ---
 
