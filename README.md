@@ -1,4 +1,4 @@
-# 👨‍💻 usernzx | Développeur
+# 👨‍💻 usernzx | Développeur & Graphiste
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-1250-blue?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Favoris-542-yellow?style=for-the-badge)
@@ -6,17 +6,18 @@
 ---
 
 👋 Salut !  
-Je suis un **développeur web orienté full-stack**, passionné par la création d’applications modernes, performantes et maintenables.  
-J’aime transformer des idées en projets concrets, tout en m’assurant de la **qualité du code**, de l’**architecture** et de l’**expérience utilisateur**.
+Je suis un **développeur web full-stack** et **graphiste**, passionné par la création d’applications modernes, performantes et esthétiques.  
+J’aime transformer des idées en projets concrets, tout en m’assurant de la **qualité du code**, de l’**architecture**, et de l’**expérience utilisateur**.  
 
 ---
 
 ## 🚀 À propos de moi
 
-- 💻 Intéressé par le **développement web & logiciel**
-- 🧠 Curieux, motivé et toujours prêt à apprendre
-- 🔍 Attentif à la qualité du code et aux bonnes pratiques
-- 🤝 Apprécie le travail en équipe et les projets collaboratifs
+- 💻 Développement web & logiciel (Front-end / Back-end)  
+- 🎨 Graphisme : logos, miniatures et visuels pour serveurs et projets  
+- 🧠 Curieux, motivé et toujours prêt à apprendre  
+- 🔍 Attentif aux bonnes pratiques et à la qualité du code  
+- 🤝 Travail collaboratif et projets créatifs  
 
 ---
 
@@ -40,22 +41,29 @@ J’aime transformer des idées en projets concrets, tout en m’assurant de la 
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
 
+### 🎨 Graphisme & Création visuelle
+- Création de **logos personnalisés**  
+- Design de **miniatures et visuels attractifs**  
+- Montage et retouche d’images  
+- Adaptation graphique pour Discord et réseaux sociaux  
+
 ---
 
 ## 🎯 Objectifs
 
-- 🔹 Devenir un développeur **full-stack**
-- 🔹 Créer des projets **solides et utiles**
-- 🔹 Continuer à apprendre de nouvelles technologies
-- 🔹 Travailler sur des projets collaboratifs / open-source
+- 🔹 Devenir un développeur **full-stack** confirmé  
+- 🔹 Créer des projets **solides et esthétiques**  
+- 🔹 Apprendre constamment de nouvelles technologies et techniques graphiques  
+- 🔹 Travailler sur des projets collaboratifs / open-source  
 
 ---
 
 ## 📈 En ce moment
 
-- ⚛️ Développement avec **React**
-- 🖥️ Back-end avec **Node.js & Express**
-- 📚 Approfondissement en **TypeScript & Python**
+- ⚛️ Développement front-end avec **React**  
+- 🖥️ Back-end avec **Node.js & Express**  
+- 🎨 Création de **logos, miniatures et visuels**  
+- 📚 Approfondissement en **TypeScript & Python**  
 
 ---
 
@@ -63,27 +71,33 @@ J’aime transformer des idées en projets concrets, tout en m’assurant de la 
 
 ### 🤖 Gestion de serveurs Discord
 **Objectifs et réalisations :**  
-- Réorganisation des salons, rôles et permissions pour améliorer la clarté et la sécurité  
-- Mise en place d’un système d’accueil / onboarding pour les nouveaux membres  
-- Création d’un système permettant aux membres de choisir leur serveur de jeu via des rôles  
-- Amélioration de la lisibilité et de l’expérience utilisateur  
+- Réorganisation des salons, rôles et permissions  
+- Mise en place d’un système d’accueil / onboarding  
+- Création de visuels et logos pour le serveur  
+- Amélioration de l’expérience utilisateur  
 
 **Compétences mises en œuvre :**  
-- Très bonne maîtrise de Discord  
-- Gestion avancée des rôles, permissions et bots (Drafbot ou équivalent)  
-- Sérieux, organisation et force de proposition  
+- Gestion avancée de Discord, rôles et permissions  
+- Maîtrise de la création graphique pour éléments visuels  
+- Organisation, créativité et sens du détail  
 
 ### 🌐 Développement web & API
-- 🔗 **Projet 1** – [Lien si disponible] : application full-stack avec React / Node.js / MongoDB  
-- 🔗 **Projet 2** – [Lien si disponible] : API performante avec Node.js & Express, gestion sécurisée des données  
+- 🔗 **Projet 1** – [Lien si disponible] : application full-stack React / Node.js / MongoDB  
+- 🔗 **Projet 2** – [Lien si disponible] : API performante avec Node.js & Express  
+
+### 🎨 Graphisme
+- Création de **logos, bannières et miniatures**  
+- Retouche d’images et design pour projets et serveurs  
+- Identité visuelle pour communautés et événements  
 
 ---
 
 ## 📫 Me contacter
 
-- 💼 Discord : usernzx
-- 📧 Email : creaweb.nb@gmail.com
+- 💼 Discord : usernzx  
+- 📧 Email : creaweb.nb@gmail.com  
 
 ---
 
-✨ *Toujours motivé à progresser et à relever de nouveaux défis.*
+✨ *Toujours motivé à progresser et à relever de nouveaux défis, que ce soit dans le code ou dans le graphisme.*
+
