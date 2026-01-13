@@ -1,7 +1,8 @@
 # 👨‍💻 usernzx | Développeur
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1 250-blue?style=for-the-badge)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1250-blue?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Favoris-542-yellow?style=for-the-badge)
+
 
 👋 Salut !  
 Je suis un **développeur passionné** par le développement web et les technologies modernes.  
