@@ -1,4 +1,4 @@
-# 👨‍💻 usernzx | Développeur & Graphiste
+# 👨‍💻 usernzx | Développeur, Graphiste & Creator Bot Discord
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-1250-blue?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Favoris-542-yellow?style=for-the-badge)
@@ -6,7 +6,7 @@
 ---
 
 👋 Salut !  
-Je suis un **développeur web full-stack** et **graphiste**, passionné par la création d’applications modernes, performantes et esthétiques.  
+Je suis un **développeur web full-stack**, **graphiste**, et **créateur de bots Discord**, passionné par la création d’applications modernes, performantes et esthétiques.  
 J’aime transformer des idées en projets concrets, tout en m’assurant de la **qualité du code**, de l’**architecture**, et de l’**expérience utilisateur**.  
 
 ---
@@ -15,6 +15,7 @@ J’aime transformer des idées en projets concrets, tout en m’assurant de la 
 
 - 💻 Développement web & logiciel (Front-end / Back-end)  
 - 🎨 Graphisme : logos, miniatures et visuels pour serveurs et projets  
+- 🤖 Création et gestion de **bots Discord**  
 - 🧠 Curieux, motivé et toujours prêt à apprendre  
 - 🔍 Attentif aux bonnes pratiques et à la qualité du code  
 - 🤝 Travail collaboratif et projets créatifs  
@@ -40,6 +41,7 @@ J’aime transformer des idées en projets concrets, tout en m’assurant de la 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)
 
 ### 🎨 Graphisme & Création visuelle
 - Création de **logos personnalisés**  
@@ -53,6 +55,7 @@ J’aime transformer des idées en projets concrets, tout en m’assurant de la 
 
 - 🔹 Devenir un développeur **full-stack** confirmé  
 - 🔹 Créer des projets **solides et esthétiques**  
+- 🔹 Créer et gérer des **bots Discord performants**  
 - 🔹 Apprendre constamment de nouvelles technologies et techniques graphiques  
 - 🔹 Travailler sur des projets collaboratifs / open-source  
 
@@ -62,6 +65,7 @@ J’aime transformer des idées en projets concrets, tout en m’assurant de la 
 
 - ⚛️ Développement front-end avec **React**  
 - 🖥️ Back-end avec **Node.js & Express**  
+- 🤖 Création et optimisation de **bots Discord**  
 - 🎨 Création de **logos, miniatures et visuels**  
 - 📚 Approfondissement en **TypeScript & Python**  
 
@@ -69,8 +73,9 @@ J’aime transformer des idées en projets concrets, tout en m’assurant de la 
 
 ## 📌 Projets / Expériences
 
-### 🤖 Gestion de serveurs Discord
+### 🤖 Gestion de serveurs Discord & Bots
 **Objectifs et réalisations :**  
+- Création et gestion de **bots Discord personnalisés**  
 - Réorganisation des salons, rôles et permissions  
 - Mise en place d’un système d’accueil / onboarding  
 - Création de visuels et logos pour le serveur  
@@ -78,7 +83,8 @@ J’aime transformer des idées en projets concrets, tout en m’assurant de la 
 
 **Compétences mises en œuvre :**  
 - Gestion avancée de Discord, rôles et permissions  
-- Maîtrise de la création graphique pour éléments visuels  
+- Programmation de bots (Node.js, Discord.js / Python)  
+- Création graphique pour éléments visuels  
 - Organisation, créativité et sens du détail  
 
 ### 🌐 Développement web & API
@@ -99,5 +105,6 @@ J’aime transformer des idées en projets concrets, tout en m’assurant de la 
 
 ---
 
-✨ *Toujours motivé à progresser et à relever de nouveaux défis, que ce soit dans le code ou dans le graphisme.*
+✨ *Toujours motivé à progresser et à relever de nouveaux défis, que ce soit dans le code, le graphisme ou la création de bots Discord.*
+
 
